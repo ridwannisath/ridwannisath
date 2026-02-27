@@ -7,9 +7,9 @@
 ---
 
 ### 🔭 About Me
-- 🚀 **Full Stack Developer** specializing in building high-velocity, data-driven applications.
-- 🧠 **AI Engineer** focused on **Resume Data Extraction** and Generative AI (Google Gemini).
-- 🛠️ **Problem Solver** currently optimizing AI-powered parsing engines.
+- 🚀 **Full Stack Developer** specializing in Python, Flask, and React ecosystems.
+- 🧠 **AI Engineer** passionate about Large Language Models (LLMs) and Generative AI (Google Gemini).
+- 🛠️ **Problem Solver** currently focused on building high-velocity data extraction engines.
 - 🌱 **Learning** advanced Computer Vision and Agentic AI architectures.
 
 ---
@@ -28,22 +28,13 @@
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🚀 [Resume Parser Core](https://github.com/ridwannisath/resume_parser)
+### 🌟 Featured Project: [Resume Parser Core](https://github.com/ridwannisath/resume_parser)
 > **AI-Powered Candidate Intelligence Engine**
+
+A sophisticated system that transmutes unstructured resume documents (PDF, DOCX, IMG) into structured, actionable data using a hybrid engine of **Regex** and **Google Gemini AI**.
 - **Ingestion:** Multiple formats (`.pdf`, `.docx`, `.jpg`, `.png`).
 - **Intelligence:** Powered by `gemini-1.5-flash` for high-precision parsing.
 - **Sentinel:** Autonomous duplication scanning to maintain database integrity.
-
-#### 📊 [Resume Data Extraction](https://github.com/ridwannisath/Resume_Data_Extraction)
-> **High-Performance Data Ingestion**
-- **Focus:** Extracting and structuring candidate data from various document sources.
-- **Tech:** Python-based extraction logic.
-
-#### 🌐 [Personal Portfolio](https://github.com/ridwannisath/portfolio)
-> **Digital Showcase**
-- **About:** A comprehensive look at my projects, skills, and journey as a developer.
 
 ---
 
