@@ -28,13 +28,25 @@
 
 ---
 
-### 🌟 Featured Project: [Resume Parser Core](https://github.com/ridwannisath/resume_parser)
+### 🌟 Projects
+
+#### 🚀 [Resume Parser Core](https://github.com/ridwannisath/resume_parser)
 > **AI-Powered Candidate Intelligence Engine**
 
 A sophisticated system that transmutes unstructured resume documents (PDF, DOCX, IMG) into structured, actionable data using a hybrid engine of **Regex** and **Google Gemini AI**.
 - **Ingestion:** Multiple formats (`.pdf`, `.docx`, `.jpg`, `.png`).
 - **Intelligence:** Powered by `gemini-1.5-flash` for high-precision parsing.
 - **Sentinel:** Autonomous duplication scanning to maintain database integrity.
+
+#### 📄 [Resume Data Extraction](https://github.com/ridwannisath/Resume_Data_Extraction)
+> **Structured Data Extraction Toolkit**
+
+Tools and scripts for extracting structured data from resume documents. Built with HTML.
+
+#### 🌐 [Portfolio](https://github.com/ridwannisath/portfolio)
+> **Personal Portfolio Website**
+
+Showcasing my work, skills, and projects. Built with HTML.
 
 ---
 
